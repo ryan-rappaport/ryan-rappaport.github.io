@@ -1676,7 +1676,7 @@ input, select, textarea {
 		}
 
 		/* The Close Button */
-		.close {
+		.closeimg {
 		  position: absolute;
 		  top: 15px;
 		  right: 35px;
@@ -1686,8 +1686,8 @@ input, select, textarea {
 		  transition: 0.3s;
 		}
 
-		.close:hover,
-		.close:focus {
+		.closeimg:hover,
+		.closeimg:focus {
 		  color: #bbb;
 		  text-decoration: none;
 		  cursor: pointer;
